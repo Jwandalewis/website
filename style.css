@@ -25,12 +25,12 @@ header h1 {
   }
 
 h2 {
-  color: blue;
+  color: darkgreen;
   font-size: 24px;
 }
 
 p {
-  color: black;
+  color: darkgreen;
   font-size: 18px;
   margin: 15px 0;
 }
@@ -46,13 +46,13 @@ h1, h2, h3 {
 }
 
 em {
-  color: blue;
+  color: darkgreen;
   p{
     line-height:2;
   }
 }
 a {
-  color: red;
+  color: darkgreen;
   text-decoration: none;
 }
 
